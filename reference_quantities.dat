@@ -1,0 +1,6 @@
+Time Step?none?none?0.0?0.0
+contact-area?ydata?2D Interface Area [mm^2]?0.0?1000000.0
+flow-time?xdata?Flow Time [s]?0.0?1.0
+v-frac-water?ydata?Wetted Area [%]?0.0?100.0
+velocity-factor?ydata?Velocity Factor [-]?0.0?1.0
+film-height?ydata?Film Height [mm]?0.0004?1000.0
